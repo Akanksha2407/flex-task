@@ -1,0 +1,95 @@
+.cl1{
+    background-color: rgb(241, 241, 241);
+    margin:40px 5px ;
+    border-radius: 3px;
+    font-family: Arial, Helvetica, sans-serif; 
+    padding: 9px 13px;
+    font-size: 14px;
+    font-weight: bold;
+   
+}
+.parentcontainer1{
+    display: flex;
+    justify-content: center;
+}
+.parentcontainer2{
+    display: flex;
+    background-color: rgb(53, 79, 53);
+    justify-content: space-between;
+    width: 1100px;
+    margin: 50px 210px; 
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding:0px 20px;
+    height:50px;
+    font-size: 12px;
+} 
+.element1{
+    display: flex;
+    margin-top: 4px;
+    
+}
+
+.parent3{
+    display: flex;
+    
+}
+
+.cl2{
+    margin: 20px 15px 0px 15px;
+    background-color: rgb(53, 79, 53);
+}
+.cl3{
+    background-color: greenyellow;
+    border-radius: 5px;
+    padding: 12px 15px 30px 15px;
+    margin:6px  ;
+
+}
+.parentcontainer3{
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+    width: 1100px;
+    margin: 50px 210px; 
+    color: white;
+    font-size:12px ;
+    font-family: Arial, Helvetica, sans-serif;
+    padding:0px 20px;
+    height:60px;
+}
+.element2{
+    display: flex;
+    margin-top: 12px;
+}
+.parent4{
+    display: flex;
+}
+.parent5{
+    display: flex;
+}
+.cl4{
+    margin: 20px 10px 0px 10px;
+    background-color:black;
+}
+.parent6{
+    display: flex;
+}
+.cl5{
+    margin: 20px 15px 0px 40px;
+    background-color:black;
+}   
+.cl6{
+    background-color:  rgb(241, 241, 241);
+    border-radius: 5px;
+    padding: 10px 12px 10px 12px;
+    margin:12px 12px 12px 12px ;
+    color: black;
+}
+.element3{
+    padding-top:10px ;
+    border-radius: 10px;
+    background-color: ;
+}
+
+
